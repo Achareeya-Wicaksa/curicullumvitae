@@ -6,24 +6,24 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Penerimaan Online Siswa PKL Pada PT. Angkasa Pura 1 Juanda",
+    name: "Online Internship Application for Students at PT. Angkasa Pura 1 Juanda",
     description:
-      "Sebuah Website yang dapat digunakan oleh siswa maupun mahasiswa yang ingin mendaftar Praktik Kerja Nyata pada PT. Angkasa Pura 1 juanda.",
+      "A website that can be used by students who want to apply for an internship at PT. Angkasa Pura 1 Juanda.",
     image: "/angkasapura.png",
     github: "https://github.com/IceManbrz/web-pkl.git",
     link: "https://pklangkasapura1.vercel.app/",
   },
   {
     name: "Kampus Gratis",
-    description: "Sebuah Website yang Dapat digunakan untuk mendapatkan ilmu sesuai dengan keinginan setiap individu secara bebas.",
+    description: "A website that can be used to acquire knowledge according to each individual's preferences freely.",
     image: "/kampusgratis.png",
     github: "https://github.com/icemanbrz",
     link: "https://kampusgratis.id",
   },
   {
-    name: "Test pengambilan jurusan pada SMA 1 Kedungwaru Tulungagung",
+    name: "The selection test for majors at SMA 1 Kedungwaru Tulungagung",
     description:
-      "Sebuah Website yang ditujukan untuk siswa baru SMA 1 Kedungwaru Tulungagung untuk memilih jurusan sesuai minat dan bakat nya.",
+      "A website aimed at new students of SMA 1 Kedungwaru Tulungagung to choose majors according to their interests and talents.",
     image: "/testsma.png",
     github: "https://github.com/IceManbrz/testdeploy.git",
     link: "https:testdeploy-five-phi.vercel.app",
