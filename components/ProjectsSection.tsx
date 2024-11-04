@@ -26,7 +26,7 @@ const projects = [
       "A website aimed at new students of SMA 1 Kedungwaru Tulungagung to choose majors according to their interests and talents.",
     image: "/testsma.png",
     github: "https://github.com/IceManbrz/testdeploy.git",
-    link: "https:testdeploy-five-phi.vercel.app",
+    link: "https://testminatbakat.vercel.app/",
   },
 ]
 
