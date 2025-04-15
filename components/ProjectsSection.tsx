@@ -28,6 +28,14 @@ const projects = [
     github: "https://github.com/IceManbrz/testdeploy.git",
     link: "https://testminatbakat.vercel.app/",
   },
+  {
+    name: "Fullstack Programmer",
+    description:
+      "As a fullstack developer at top4 for some project.",
+    image: "/image.png",
+    github: "",
+    link: "https://www.top4marketing.co.id/",
+  },
 ]
 
 const ProjectsSection = () => {
