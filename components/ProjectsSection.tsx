@@ -36,6 +36,14 @@ const projects = [
     github: "",
     link: "https://www.top4marketing.co.id/",
   },
+  {
+    name: "Export Company",
+    description:
+      "Create landing page for export company in indonesia using next.js. Equipped with nodemailer, google analytics.",
+    image: "/webekspor.png",
+    github: "",
+    link: "https://webeksporsukses.vercel.app/",
+  },
 ]
 
 const ProjectsSection = () => {
