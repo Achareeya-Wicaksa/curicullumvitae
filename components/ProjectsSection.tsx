@@ -44,6 +44,14 @@ const projects = [
     github: "",
     link: "https://webeksporsukses.vercel.app/",
   },
+  {
+    name: "Office Management Platform",
+    description:
+      "Currently working on a Next.js-powered web platform for office management, supporting roles such as Superadmin, Director, Manager, Accountant, and Staff.Each role comes with specific features like user & staff management, salary processing, daily reports, internal chat.",
+    image: "/kantorku.png",
+    github: "",
+    link: "https://kantorku-management.vercel.app/login",
+  },
 ]
 
 const ProjectsSection = () => {
