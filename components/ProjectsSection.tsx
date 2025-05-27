@@ -63,7 +63,7 @@ const ProjectsSection = () => {
       </h1>
 
       <div className="flex flex-col space-y-28">
-        {projects.map((project, idx) => {
+        {[...projects].reverse().map((project, idx) => {
           return (
             <div key={idx}>
               <SlideUp offset="-300px 0px -300px 0px">
