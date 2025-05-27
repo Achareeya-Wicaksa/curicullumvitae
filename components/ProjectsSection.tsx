@@ -45,6 +45,14 @@ const projects = [
     link: "https://webeksporsukses.vercel.app/",
   },
   {
+    name: "A Corp Clothing",
+    description:
+      "I build modern, visually appealing, and minimalist websites using Next.js and Tailwind CSS. My focus is on creating clean, responsive designs with smooth user experiences, optimized performance, and scalable structure — perfect for brands, or growing businesses that want a sleek and up-to-date web presence.",
+    image: "/A-corp.png",
+    github: "",
+    link: "https://a-corp-eight.vercel.app/",
+  },
+  {
     name: "Office Management Platform",
     description:
       "Currently working on a Next.js-powered web platform for office management, supporting roles such as Superadmin, Director, Manager, Accountant, and Staff.Each role comes with specific features like user & staff management, salary processing, daily reports, internal chat.",
